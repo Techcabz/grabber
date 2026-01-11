@@ -1,6 +1,4 @@
-Narito ang malinis na bersyon ng iyong kuwento, tinanggal ang lahat ng HTML tags para mas madaling basahin:
 
----
 
 Wala na sa kalendaryo, huli na sa biyahe, tatandang dalaga. Ilan sa mga tawag sa mga babaeng katulad niya na lagpas na sa taning para mag-asawa.
 
